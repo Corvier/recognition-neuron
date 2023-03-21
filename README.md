@@ -27,7 +27,10 @@ visual de un humano.
 * **ID Integrated Development Environment:"** un entorno de desarrollo integrado (IDE) es un sistema de software para el diseño de aplicaciones que combina herramientas del desarrollador comunes en una sola interfaz gráfica de usuario (GUI). Para este proyecto estaremos utilizando el Entorno integrado de desarrollo Visual Studio Code desarrollado por Microsoft para Windows, Linux Y MacOS, para el desarrollo de todos los algoritmos y el estructurado de etiquetado para la página web. (Microsoft, 2020).
 
 --
+
 ## Idea del prototipo
-![Prototipo final]( "Propuesta de la vista de entrada y salidas.")
+![Prototipo final](https://github.com/Corvier/recognition-neuron/blob/main/src/img/Fianl-SistemaExperto.png "Propuesta de la vista de entrada y salidas.")
+
 --
+
 ### *By:* **[Víctor José Ruiz Herrera](https://github.com/Corvier "ir al perfil de Github")**
