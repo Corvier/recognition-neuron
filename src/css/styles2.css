@@ -1,0 +1,51 @@
+:root {
+	--fondo: #f2f2f2;
+	--color-primario: #c9c9c9;
+	--color-secundario: #fe802b;
+	--color-bloques: #fec840;
+    --color-verde: #43A047;
+    --color-bloques2: #63d168;
+}
+body {
+    background-color: var(--fondo);
+	font-family: 'Open Sans', sans-serif;
+}
+
+.row {
+    background-color: var(--color-primario);
+    box-shadow:  0px 1px 25px rgba(3, 3, 3, 0.5);
+}
+
+#tablatop {
+    background-color: var(--color-verde);
+}
+
+#contenedor-derecha, #contenedor-derecha2 {
+    background-color: var(--color-primario);
+}
+
+#Panel-Entrenar, #panel-modelo {
+    background-color: var(--color-secundario);
+}
+
+#entrenar-botones, #herramientas {
+    background-color: var(--color-bloques);
+}
+
+#entrenar-texto {
+    background-color: var(--color-verde);
+}
+
+#amarillo {
+    background-color: var(--color-bloques);
+}
+
+body::-webkit-scrollbar {
+	width: 10px;
+	background-color: var(--color-bloques);
+}
+
+body::-webkit-scrollbar-thumb {
+	background-color: var(--color-verde);
+	border-radius: 5px;
+}
